@@ -23,3 +23,15 @@ pip3 install time
 3. Run the script using the command
 `python3 scr.py
 `
+
+### To paste something from the clipboard n number of times
+1. Copy the required message into the clipboard
+2. Run the script using the command
+`python3 script2.py
+`
+3. Enter the number of times you want the message to be spammed.
+4. Enter the time allotted for each message (in seconds) and then, the time after which the spam should start.
+5. Now move the mouse to the text-box and click on it and then wait for the typing to start.
+6. Sit back and enjoy.
+
+For the non-interactive version, run the script scr2.py
