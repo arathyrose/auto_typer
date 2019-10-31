@@ -2,7 +2,10 @@
 This is an autotyper made in python designed for spamming purposes.
 
 ## How to run this file
-1. Install the latest version of python3
+1. Install the latest version of python3 and tkinter by
+```
+sudo apt-get install python3-tk python3-dev
+```
 2. Install the following packages using pip3
 ```
 pip3 install pyautogui
